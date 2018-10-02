@@ -1,2 +1,2 @@
 # qw1
-u meni dцp
+u meni 1
