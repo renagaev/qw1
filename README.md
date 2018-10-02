@@ -1,2 +1,2 @@
 # qw1
-u meni dцp 222
+u meni 1
